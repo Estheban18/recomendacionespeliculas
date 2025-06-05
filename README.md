@@ -25,24 +25,5 @@
 4. Ejecuta el script principal con `streamlit run appCineptos.py`.
 5. Sigue las instrucciones en pantalla para empezar a descubrir nuevas películas.
 
-## 🤝 Contribuir
 
-¡Nos encantaría recibir contribuciones para mejorar este proyecto! Si tienes alguna idea o sugerencia, sigue estos pasos:
 
-1. Haz un fork del repositorio.
-2. Crea una rama para tu nueva funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
-3. Haz tus cambios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Sube tus cambios a tu repositorio (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
-## 📋 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
-
-## 💬 Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
-
----
-
-¡Gracias por utilizar nuestro recomendador de películas! Esperamos que disfrutes explorando nuevas opciones de entretenimiento
